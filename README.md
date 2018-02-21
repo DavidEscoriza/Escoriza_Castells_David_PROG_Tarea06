@@ -1,1 +1,3 @@
-# Escoriza_Castells_David_PROG_Tarea06
+David Escoriza Castells
+
+Refactorizamos la aplicación del Alquiler de vehículos y añadimos los nuevos requisitos.
